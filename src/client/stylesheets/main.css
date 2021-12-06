@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif&display=swap');
+
+/*
+Color pallet
+Background
+#F7F0F5
+Primary
+#427AA1
+Secondary
+#918868
+Helpers
+#8F3985
+#A675A1
+*/
+
+html, body {
+    background-color: #F7F0F5;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+p, a {
+    font-family: 'Noto Serif', serif;
+}
